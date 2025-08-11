@@ -1,4 +1,5 @@
 Ultimate Password Generator
+########################################################
 Overview
 
 Ultimate Password Generator is a secure and user-friendly password generator built with Python. It allows users to generate random passwords of a specified length using a variety of character types. The program ensures that only valid, positive integer inputs are accepted for password length. It also offers a graphical user interface (GUI) for ease of use, leveraging the Tkinter library.
