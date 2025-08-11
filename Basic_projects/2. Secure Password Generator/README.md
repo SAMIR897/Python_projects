@@ -143,4 +143,4 @@ Conclusion
 
 The Ultimate Password Generator is a highly customizable and secure tool for generating random passwords. With an intuitive GUI and built-in validation, it ensures that only valid inputs are accepted, making it a reliable solution for creating secure passwords.
 
-[def]: assets/screenshot.png
+[def]: assets/Screenshot.png
