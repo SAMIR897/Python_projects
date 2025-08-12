@@ -1,4 +1,4 @@
-Ultimate Password Generator
+###Ultimate Password Generator
 
 Overview
 
