@@ -27,7 +27,7 @@ Features
 
     Interactive GUI: The program uses Tkinter to provide a clean, interactive interface.
 
-Requirements
+# Requirements
 
 To run this program, you'll need to have the following Python modules installed:
 
@@ -95,7 +95,7 @@ How It Works
 
         Once the password is generated, users can click the "Copy to Clipboard" button, which copies the password to the clipboard using the pyperclip module.
 
-Error Handling
+# Error Handling
 
     Positive Integer Validation:
 
@@ -106,7 +106,7 @@ Error Handling
         If the password length input is left empty, or if the value entered is invalid, the program will prompt the user with an appropriate message.
 
 
-Screenshots
+# Screenshots
 Here’s a screenshot of the Ultimate Password Generator:
 
 ![Screenshot][def]
@@ -137,7 +137,7 @@ Usage Instructions
 
         Click "Copy to Clipboard" to copy the generated password for use.
 
-License
+# License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 Conclusion
