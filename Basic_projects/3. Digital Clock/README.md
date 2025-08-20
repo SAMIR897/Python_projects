@@ -23,11 +23,15 @@ A 🕰️ sleek and 🎨 user-friendly digital clock built with 🐍 **Python** 
 ### Screenshots
 
 - **Basic Digital Clock**:
-  ![Basic Digital Clock](https://github.com/SAMIR897/Python_projects/blob/main/Basic_projects/3.%20Digital%20Clock/assets/Screenshot1.png)
+  
+  ![Basic Digital Clock](assets/Screenshot1.png)
+  
   *Clock 1 (Basic Version)*
 
 - **Enhanced Digital Clock**:
-  ![Enhanced Digital Clock](https://github.com/SAMIR897/Python_projects/blob/main/Basic_projects/3.%20Digital%20Clock/assets/ScreenshoT2.png)
+  
+  ![Enhanced Digital Clock](assets/ScreenshoT2.png)
+
   *Clock 2 (Enhanced Version)*
 
 ## Installation
