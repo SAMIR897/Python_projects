@@ -26,13 +26,17 @@ A 🕰️ sleek and 🎨 user-friendly digital clock built with 🐍 **Python** 
   
   ![Basic Digital Clock](assets/Screenshot1.png)
   
-  *Clock 1 (Basic Version)*
+  
+  *Clock 1 (Basic Version)*. 
+
 
 - **Enhanced Digital Clock**:
   
   ![Enhanced Digital Clock](assets/ScreenshoT2.png)
 
-  *Clock 2 (Enhanced Version)*
+  
+  *Clock 2 (Enhanced Version)*. 
+  
 
 ## Installation
 
