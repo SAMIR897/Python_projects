@@ -1,4 +1,5 @@
-Ultimate Password Generator
+# Ultimate Password Generator
+
 Overview
 
 Ultimate Password Generator is a secure and user-friendly password generator built with Python. It allows users to generate random passwords of a specified length using a variety of character types. The program ensures that only valid, positive integer inputs are accepted for password length. It also offers a graphical user interface (GUI) for ease of use, leveraging the Tkinter library.
@@ -26,7 +27,7 @@ Features
 
     Interactive GUI: The program uses Tkinter to provide a clean, interactive interface.
 
-Requirements
+# Requirements
 
 To run this program, you'll need to have the following Python modules installed:
 
@@ -94,7 +95,7 @@ How It Works
 
         Once the password is generated, users can click the "Copy to Clipboard" button, which copies the password to the clipboard using the pyperclip module.
 
-Error Handling
+# Error Handling
 
     Positive Integer Validation:
 
@@ -105,7 +106,7 @@ Error Handling
         If the password length input is left empty, or if the value entered is invalid, the program will prompt the user with an appropriate message.
 
 
-Screenshots
+# Screenshots
 Here’s a screenshot of the Ultimate Password Generator:
 
 ![Screenshot][def]
@@ -136,11 +137,11 @@ Usage Instructions
 
         Click "Copy to Clipboard" to copy the generated password for use.
 
-License
+# License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 Conclusion
 
 The Ultimate Password Generator is a highly customizable and secure tool for generating random passwords. With an intuitive GUI and built-in validation, it ensures that only valid inputs are accepted, making it a reliable solution for creating secure passwords.
 
-[def]: assets/screenshot.png
+[def]: assets/Screenshot.png
