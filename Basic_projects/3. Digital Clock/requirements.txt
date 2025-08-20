@@ -1,2 +1,2 @@
 pyperclip==1.8.2
-tkinter==8.8
+tkinter==8.6
