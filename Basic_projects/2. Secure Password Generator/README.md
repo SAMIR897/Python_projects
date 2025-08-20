@@ -23,7 +23,7 @@ A 🔐 secure and 🎨 user-friendly password generator built with 🐍 **Python
 
 ### Screenshot
 
-🖼️ Main Interface: assets/Screenshot.png
+🖼️ Main Interface: assets/Screenshot .png
 
 ## Installation
 
