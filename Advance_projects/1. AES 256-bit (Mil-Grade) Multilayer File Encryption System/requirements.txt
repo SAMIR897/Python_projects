@@ -1,0 +1,6 @@
+# No external dependencies, using built-in libraries (tkinter, zipfile, etc.)
+pycryptodome          # For AES encryption/decryption
+tkinter               # For GUI (Tkinter is part of Python standard library, but you might need to install this on some systems)
+Pillow                # For working with images (optional, if you plan to use images/icons)
+pyinstaller           # For packaging the application into .exe, .deb, or .dmg
+pyperclip             # For clipboard operations (optional, if needed for password copy/paste)
