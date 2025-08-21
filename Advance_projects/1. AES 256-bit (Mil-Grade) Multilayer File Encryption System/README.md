@@ -27,4 +27,4 @@ A 🔐 custom AES-256 encryption system with a 🖥️ multilayer GUI, built fro
 
 ## Get Started
 ---
-🔐 Encrypt securely today! Star this repo!
+🔐 Encrypt securely today!
