@@ -54,50 +54,41 @@
       </a>
       <p align="center">Uses distributed ledger technology to ensure that data remains tamper-proof and verifiable.</p>
       <br />
-      
       <a href="https://github.com/SAMIR897/Secure-File-Vault-with-Expiring-Links">
         <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Secure-File-Vault-with-Expiring-Links&mode=light&style=vertical" alt="[📂 PROJECT: Secure File Vault]" width="90%"/>
         <br />
-        <b>Secure File Vault (Expiring Links)</b>
+        <b>Secure File Vault</b>
       </a>
-      <p align="center">A secure storage system that generates time-sensitive, expiring links for safe file sharing.</p>
+      <p align="center">A robust storage system that generates time-sensitive, expiring links for safe file sharing.</p>
       <br />
       <a href="https://github.com/SAMIR897/Bulk-Email-Newsletter-Service-Using-Celery-Redis-">
-        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Bulk-Email-Newsletter-Service-Using-Celery-Redis-&mode=dark&style=vertical" alt="[📂 PROJECT: Bulk Email Newsletter Service]" width="90%"/>
+        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Bulk-Email-Newsletter-Service-Using-Celery-Redis-&mode=dark&style=vertical" alt="[📂 PROJECT: Bulk Email Service]" width="90%"/>
         <br />
-        <b>Bulk Email Service (Celery & Redis)</b>
+        <b>Bulk Email Service</b>
       </a>
-      <p align="center">An asynchronous newsletter delivery system utilizing Celery and Redis for scalable email queuing.</p>
+      <p align="center">An asynchronous newsletter delivery system utilizing Celery and Redis for scalable queuing.</p>
       <br />
       <a href="https://github.com/SAMIR897/Automated-Resume-Parser-API">
         <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Automated-Resume-Parser-API&mode=light&style=vertical" alt="[📂 PROJECT: Resume Parser API]" width="90%"/>
         <br />
         <b>Automated Resume Parser API</b>
       </a>
-      <p align="center">An intelligent backend API service designed to extract and structure data from resume files automatically.</p>
-      <br />
-      <a href="https://github.com/SAMIR897/Employee-Leave-Management-API">
-        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Employee-Leave-Management-API&mode=dark&style=vertical" alt="[📂 PROJECT: Leave Management API]" width="90%"/>
-        <br />
-        <b>Employee Leave Management API</b>
-      </a>
-      <p align="center">A comprehensive backend system for managing staff leave requests, balances, and organizational approvals.</p>
+      <p align="center">An intelligent backend service designed to extract and structure data from resume files automatically.</p>
       <br />
       <a href="https://github.com/SAMIR897/Support-Ticket-System-with-SLA-Tracking">
-        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Support-Ticket-System-with-SLA-Tracking&mode=light&style=vertical" alt="[📂 PROJECT: Support Ticket System]" width="90%"/>
+        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Support-Ticket-System-with-SLA-Tracking&mode=dark&style=vertical" alt="[📂 PROJECT: Support Ticket System]" width="90%"/>
         <br />
-        <b>Support Ticket System (SLA Tracking)</b>
+        <b>Support Ticket System</b>
       </a>
       <p align="center">A helpdesk backend featuring robust Service Level Agreement (SLA) tracking and ticket lifecycle management.</p>
       <br />
       <a href="https://github.com/SAMIR897/Internal-Company-FAQ-Chatbot-Backend">
-        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Internal-Company-FAQ-Chatbot-Backend&mode=dark&style=vertical" alt="[📂 PROJECT: FAQ Chatbot Backend]" width="90%"/>
+        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Internal-Company-FAQ-Chatbot-Backend&mode=light&style=vertical" alt="[📂 PROJECT: FAQ Chatbot Backend]" width="90%"/>
         <br />
         <b>Company FAQ Chatbot Backend</b>
       </a>
       <p align="center">A conversational backend architecture designed to automatically answer internal company frequently asked questions.</p>
       <br />
-
       <p align="center">
         <i>More Advanced Systems in Progress...</i><br />
         ⏳ [████████░░] 80%
@@ -150,7 +141,6 @@
       </a>
       <p align="center">A utility for converting data between various formats (Base64, Hex, Binary) to ensure compatibility.</p>
       <br />
-
       <a href="https://github.com/SAMIR897/Price-Drop-Web-Scraper-API">
         <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Price-Drop-Web-Scraper-API&mode=dark&style=vertical" alt="[📂 PROJECT: Price Drop Scraper]" width="90%"/>
         <br />
@@ -179,7 +169,13 @@
       </a>
       <p align="center">An automation script that tracks e-commerce inventory levels and triggers alerts for low-stock items.</p>
       <br />
-
+      <a href="https://github.com/SAMIR897/Employee-Leave-Management-API">
+        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Employee-Leave-Management-API&mode=dark&style=vertical" alt="[📂 PROJECT: Leave Management API]" width="90%"/>
+        <br />
+        <b>Employee Leave Management API</b>
+      </a>
+      <p align="center">A comprehensive backend system for managing staff leave requests, balances, and organizational approvals.</p>
+      <br />
       <p align="center">
         <i>New Utilities Dropping Soon...</i><br />
         ⏳ [████░░░░░░] 40%
