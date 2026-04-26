@@ -1,7 +1,7 @@
 <div align="center">
 
-# Portfolio: Python & Rust
-### Cybersecurity, Automation, and Blockchain Infrastructure
+# Porjects: Python
+### Cybersecurity, Automation, Backend, and Blockchain Infrastructure
 
 ---
 
