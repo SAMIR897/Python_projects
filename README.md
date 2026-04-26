@@ -57,37 +57,37 @@
       <a href="https://github.com/SAMIR897/Secure-File-Vault-with-Expiring-Links">
         <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Secure-File-Vault-with-Expiring-Links&mode=light&style=vertical" alt="[📂 PROJECT: Secure File Vault]" width="90%"/>
         <br />
-        <b>Secure File Vault</b>
+        <b>Secure File Vault with Expiring Links</b>
       </a>
-      <p align="center">A robust storage system that generates time-sensitive, expiring links for safe file sharing.</p>
+      <p align="center">A secure file storage system that generates time-limited access links to protect sensitive shared content.</p>
       <br />
       <a href="https://github.com/SAMIR897/Bulk-Email-Newsletter-Service-Using-Celery-Redis-">
-        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Bulk-Email-Newsletter-Service-Using-Celery-Redis-&mode=dark&style=vertical" alt="[📂 PROJECT: Bulk Email Service]" width="90%"/>
+        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Bulk-Email-Newsletter-Service-Using-Celery-Redis-&mode=dark&style=vertical" alt="[📂 PROJECT: Bulk Email Newsletter Service]" width="90%"/>
         <br />
-        <b>Bulk Email Service</b>
+        <b>Bulk Email Newsletter Service</b>
       </a>
-      <p align="center">An asynchronous newsletter delivery system utilizing Celery and Redis for scalable queuing.</p>
+      <p align="center">A scalable newsletter delivery system powered by Celery and Redis for asynchronous, high-volume email dispatch.</p>
       <br />
       <a href="https://github.com/SAMIR897/Automated-Resume-Parser-API">
-        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Automated-Resume-Parser-API&mode=light&style=vertical" alt="[📂 PROJECT: Resume Parser API]" width="90%"/>
+        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Automated-Resume-Parser-API&mode=light&style=vertical" alt="[📂 PROJECT: Automated Resume Parser API]" width="90%"/>
         <br />
         <b>Automated Resume Parser API</b>
       </a>
-      <p align="center">An intelligent backend service designed to extract and structure data from resume files automatically.</p>
+      <p align="center">An API that automatically extracts and structures key information from uploaded resumes for recruitment workflows.</p>
       <br />
       <a href="https://github.com/SAMIR897/Support-Ticket-System-with-SLA-Tracking">
-        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Support-Ticket-System-with-SLA-Tracking&mode=dark&style=vertical" alt="[📂 PROJECT: Support Ticket System]" width="90%"/>
+        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Support-Ticket-System-with-SLA-Tracking&mode=dark&style=vertical" alt="[📂 PROJECT: Support Ticket System with SLA]" width="90%"/>
         <br />
-        <b>Support Ticket System</b>
+        <b>Support Ticket System with SLA Tracking</b>
       </a>
-      <p align="center">A helpdesk backend featuring robust Service Level Agreement (SLA) tracking and ticket lifecycle management.</p>
+      <p align="center">A help-desk backend that manages support tickets with built-in SLA monitoring and escalation logic.</p>
       <br />
       <a href="https://github.com/SAMIR897/Internal-Company-FAQ-Chatbot-Backend">
-        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Internal-Company-FAQ-Chatbot-Backend&mode=light&style=vertical" alt="[📂 PROJECT: FAQ Chatbot Backend]" width="90%"/>
+        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Internal-Company-FAQ-Chatbot-Backend&mode=light&style=vertical" alt="[📂 PROJECT: Internal FAQ Chatbot Backend]" width="90%"/>
         <br />
-        <b>Company FAQ Chatbot Backend</b>
+        <b>Internal Company FAQ Chatbot Backend</b>
       </a>
-      <p align="center">A conversational backend architecture designed to automatically answer internal company frequently asked questions.</p>
+      <p align="center">A smart chatbot backend that serves automated answers to internal company queries from a structured knowledge base.</p>
       <br />
       <p align="center">
         <i>More Advanced Systems in Progress...</i><br />
@@ -142,39 +142,39 @@
       <p align="center">A utility for converting data between various formats (Base64, Hex, Binary) to ensure compatibility.</p>
       <br />
       <a href="https://github.com/SAMIR897/Price-Drop-Web-Scraper-API">
-        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Price-Drop-Web-Scraper-API&mode=dark&style=vertical" alt="[📂 PROJECT: Price Drop Scraper]" width="90%"/>
+        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Price-Drop-Web-Scraper-API&mode=dark&style=vertical" alt="[📂 PROJECT: Price Drop Scraper API]" width="90%"/>
         <br />
         <b>Price Drop Web Scraper API</b>
       </a>
-      <p align="center">An automated scraping utility that monitors e-commerce products and alerts you of price reductions.</p>
+      <p align="center">An API that monitors product listings and alerts users when prices drop below a defined threshold.</p>
       <br />
       <a href="https://github.com/SAMIR897/Financial-Expense-Tracker-with-CSV-Export-Import">
-        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Financial-Expense-Tracker-with-CSV-Export-Import&mode=light&style=vertical" alt="[📂 PROJECT: Expense Tracker]" width="90%"/>
+        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Financial-Expense-Tracker-with-CSV-Export-Import&mode=light&style=vertical" alt="[📂 PROJECT: Financial Expense Tracker]" width="90%"/>
         <br />
-        <b>Financial Expense Tracker</b>
+        <b>Financial Expense Tracker with CSV Export/Import</b>
       </a>
-      <p align="center">A practical tool for recording financial transactions, complete with CSV export and import capabilities.</p>
+      <p align="center">A personal finance tool for logging and categorizing expenses, with seamless CSV data import and export support.</p>
       <br />
       <a href="https://github.com/SAMIR897/Multi-Source-Weather-Travel-Wrapper">
         <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Multi-Source-Weather-Travel-Wrapper&mode=dark&style=vertical" alt="[📂 PROJECT: Weather Travel Wrapper]" width="90%"/>
         <br />
-        <b>Multi-Source Weather Wrapper</b>
+        <b>Multi-Source Weather Travel Wrapper</b>
       </a>
-      <p align="center">A utility API that aggregates weather and travel data from multiple sources into a unified interface.</p>
+      <p align="center">A unified wrapper that aggregates weather data from multiple APIs to assist with travel planning and decisions.</p>
       <br />
       <a href="https://github.com/SAMIR897/E-commerce-Inventory-Low-Stock-Alerter">
         <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/E-commerce-Inventory-Low-Stock-Alerter&mode=light&style=vertical" alt="[📂 PROJECT: Low Stock Alerter]" width="90%"/>
         <br />
-        <b>Low Stock Inventory Alerter</b>
+        <b>E-commerce Inventory Low Stock Alerter</b>
       </a>
-      <p align="center">An automation script that tracks e-commerce inventory levels and triggers alerts for low-stock items.</p>
+      <p align="center">A monitoring tool that tracks inventory levels and triggers alerts when product stock falls below set thresholds.</p>
       <br />
       <a href="https://github.com/SAMIR897/Employee-Leave-Management-API">
-        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Employee-Leave-Management-API&mode=dark&style=vertical" alt="[📂 PROJECT: Leave Management API]" width="90%"/>
+        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Employee-Leave-Management-API&mode=dark&style=vertical" alt="[📂 PROJECT: Employee Leave Management API]" width="90%"/>
         <br />
         <b>Employee Leave Management API</b>
       </a>
-      <p align="center">A comprehensive backend system for managing staff leave requests, balances, and organizational approvals.</p>
+      <p align="center">A backend API for handling employee leave requests, approvals, and balance tracking within an organization.</p>
       <br />
       <p align="center">
         <i>New Utilities Dropping Soon...</i><br />
